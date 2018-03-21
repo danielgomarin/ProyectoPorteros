@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291305320149",
+    "firebase_url": "https://proyectoporteros-dgm5193.firebaseio.com",
+    "project_id": "proyectoporteros-dgm5193",
+    "storage_bucket": "proyectoporteros-dgm5193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291305320149:android:4ee12b5d58a110a9",
+        "android_client_info": {
+          "package_name": "com.example.dani.proyectoporteros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291305320149-da0mu1mcmc1mgv5rp4bbid3hud6dpfum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dani.proyectoporteros",
+            "certificate_hash": "fe2c59660e9fc69361bfa2e84b0e19bfb7573805"
+          }
+        },
+        {
+          "client_id": "291305320149-b5rdcb41jsgfaeh95snrbl4m2k21dkt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUaGhY_RipJxAOQNRFnj7XJPigTA8Ax4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291305320149-b5rdcb41jsgfaeh95snrbl4m2k21dkt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
